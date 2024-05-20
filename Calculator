@@ -1,4 +1,8 @@
 cout<<"Hamza Nawaz"
 cout<<"2023-BT-SE-03"
 
+<<<<<< multiplication
+cout<<"a*b="<<(a*b)<<endl;
+=======
 cout<<"a/b="<<(a/b)<<endl;
+>>>>>> division
