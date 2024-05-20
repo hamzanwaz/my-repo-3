@@ -1,4 +1,16 @@
 cout<<"Hamza Nawaz"
 cout<<"2023-BT-SE-03"
 
+<<<<<< addition
 cout<<"a+b="<<(a+b)<<endl;
+=======
+<<<<<< substraction
+cout<<"a-b="<<(a-b)<<endl;
+=======
+<<<<<< multiplication
+cout<<"a*b="<<(a*b)<<endl;
+=======
+cout<<"a/b="<<(a/b)<<endl;
+>>>>>> division
+>>>>>> multiplication
+>>>>>> substraction
