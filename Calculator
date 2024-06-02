@@ -14,3 +14,6 @@ cout<<"a/b="<<(a/b)<<endl;
 >>>>>> division
 >>>>>> multiplication
 >>>>>> substraction
+
+//modify version
+cout<<"a + b = "<<a + b;
